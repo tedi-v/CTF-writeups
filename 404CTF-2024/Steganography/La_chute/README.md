@@ -5,9 +5,11 @@
 
 **Solves** : 56
 
-**Author**: @Crevette et Ceriseuh    
+**Author**: @Crevette et Ceriseuh
 
 **File**: [charabia.txt](./charabia.txt)
+
+![challenge_description](./images/challenge_description.png)
 
 ## Description
 We are presented with a text file which at first appears to be filled with gibberish and weird characters.
@@ -41,4 +43,4 @@ Here is the deciphered text:
 
 Giving us the flag:
 
-```404ctf{contre_les_chutes_cherchez_les_drapeaux}```
+```404CTF{contre_les_chutes_cherchez_les_drapeaux}```
